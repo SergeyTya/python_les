@@ -1,0 +1,18 @@
+11
+G : F
+B : A
+C : A
+D : B C Y
+E : D
+F : D V B
+X
+Y : X A
+Z : X
+V : Z Y
+W : V
+5
+A G
+X W
+A W
+X E
+X G
