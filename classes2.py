@@ -1,3 +1,5 @@
+# задача про наследование исключений
+
 
 def bfs(parent, child, graf): # обход графа
     filo = [child]
